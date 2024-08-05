@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thisal Chamodya</h1>
 <h3 align="center">A coder with a Sri Lankan soul and a global mindset, turning dreams into digital realities.</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisal0714&label=Profile%20views&color=0e75b6&style=flat" alt="thisal0714" /> </p>
 
