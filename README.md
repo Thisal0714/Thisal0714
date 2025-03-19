@@ -34,7 +34,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Top Projects: Lost Car Finder System 🚗💡
+<h3 align="left">Top Projects: Lost Car Finder System 🚗💡</h3>
 
 The Lost Car Finder System is a web application designed to help users register and track their vehicles in case they get stolen. This system allows users to easily report their cars as stolen, receive real-time notifications, and assist others in finding their vehicles.
 
@@ -44,7 +44,7 @@ Stolen Car Reporting: Quickly report a car as stolen with detailed information.
 Notifications: All users receive email notifications when a car is reported as stolen.
 Car Finder: The system allows users to search for nearby garages based on location.
 Community Support: Users can view stolen car notifications and help in tracking down missing vehicles.
-This project utilizes modern technologies such as Spring Boot for the backend, MongoDB for data storage, and AWS for deployment and scaling. It's containerized using Docker and managed with AWS ECS for efficient task management.</h3>
+This project utilizes modern technologies such as Spring Boot for the backend, MongoDB for data storage, and AWS for deployment and scaling. It's containerized using Docker and managed with AWS ECS for efficient task management.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisal0714&show_icons=true&locale=en&layout=compact" alt="thisal0714" /></p>
