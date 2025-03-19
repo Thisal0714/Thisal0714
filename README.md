@@ -39,12 +39,11 @@
 The Lost Car Finder System is a web application designed to help users register and track their vehicles in case they get stolen. This system allows users to easily report their cars as stolen, receive real-time notifications, and assist others in finding their vehicles.
 
 Key Features:
-Car Registration: Users can register multiple cars under a single account.
-Stolen Car Reporting: Quickly report a car as stolen with detailed information.
-Notifications: All users receive email notifications when a car is reported as stolen.
-Car Finder: The system allows users to search for nearby garages based on location.
-Community Support: Users can view stolen car notifications and help in tracking down missing vehicles.
-This project utilizes modern technologies such as Spring Boot for the backend, MongoDB for data storage, and AWS for deployment and scaling. It's containerized using Docker and managed with AWS ECS for efficient task management.
++ Car Registration: Register multiple cars under a single account.
++ Stolen Car Reporting: Quickly report a car as stolen with detailed information.
++ Notifications: All users receive email notifications when a car is reported as stolen.
++ Car Finder: Search for nearby garages based on location.
++ Community Support: View stolen car notifications and help in tracking down missing vehicles.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisal0714&show_icons=true&locale=en&layout=compact" alt="thisal0714" /></p>
