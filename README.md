@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisal0714&label=Profile%20views&color=0e75b6&style=flat" alt="thisal0714" /> </p>
 
-- 🔭 I’m currently working on **Open LMS**
-- 🌱 I’m currently learning **Flutter, React**
-- 💬 Ask me about **Java, JavaScript, HTML**
+- 🔭 I’m currently working on **GoLang Project**
+- 🌱 I’m currently learning **GoLang**
+- 💬 Ask me about **React, Java, JavaScript, HTML**
 - 📫 How to reach me: **thisalchamodya123@gmail.com**
-- ⚡ Fun fact: **I can recite the alphabet backwards!** <br> *“Can you find the bug in this code?”*
+- ⚡ Fun fact: **I use Git like a pro, but when I really need it, git reset --hard becomes my panic button.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
