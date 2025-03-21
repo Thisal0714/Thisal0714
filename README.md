@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **GoLang**
 - 💬 Ask me about **React, Java, JavaScript, HTML**
 - 📫 How to reach me: **thisalchamodya123@gmail.com**
-- ⚡ Fun fact: **I use Git like a pro, but when I really need it, git reset --hard becomes my panic button.**
+- ⚡ Fun fact: **I use Git like a pro, but when I really need it, {git reset --hard} becomes my panic button.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
