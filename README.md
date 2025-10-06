@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisal0714&label=Profile%20views&color=0e75b6&style=flat" alt="thisal0714" /> </p>
 
-- 🔭 I’m currently working on **GoLang Project**
-- 🌱 I’m currently learning **GoLang**
-- 💬 Ask me about **Next,React, Java, JavaScript, HTML**
+- 🔭 I’m currently working on **Image Uploader**
+- 🌱 I’m currently learning **Laravel** & **Vue JS**
+- 💬 Ask me about **Next, React, Java, JavaScript, HTML**
 - 📫 How to reach me: **thisalchamodya123@gmail.com**
 - ⚡ Fun fact: **I use Git like a pro, but when I really need it, {git reset --hard} becomes my panic button.**
 
@@ -34,17 +34,20 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Top Projects: Lost Car Finder System 🚗💡</h3>
+<h3 align="left">StudyHive 📚🐝</h3>  
+StudyHive is a modern web app that helps students study smarter with **note summarization, focus tracking, peer feedback, and personalized learning**. It’s designed for performance, security, and a seamless user experience.  
 
-The Lost Car Finder System is a web application designed to help users register and track their vehicles in case they get stolen. This system allows users to easily report their cars as stolen, receive real-time notifications, and assist others in finding their vehicles.
+✨ Highlight: **AI-powered PDF Summarizer** ("StudyHive") that condenses study materials for faster learning.  
 
-Key Features:
-+ Car Registration: Register multiple cars under a single account.
-+ Stolen Car Reporting: Quickly report a car as stolen with detailed information.
-+ Notifications: All users receive email notifications when a car is reported as stolen.
-+ Car Finder: Search for nearby garages based on location.
-+ Community Support: View stolen car notifications and help in tracking down missing vehicles.
+Key Features:  
++ Note Summarization: Summarize PDFs and study materials with Hugging Face & OpenAI models.  
++ Focus Tracking: Monitor productivity and study patterns.  
++ Peer Feedback: Collaborate with classmates and exchange feedback.  
++ Personalized Learning: AI-driven recommendations tailored to each student.  
++ Secure & Scalable: Built for reliability, speed, and modern deployment.  
 
+Tech Stack:  
+**Next.js, Tailwind CSS, TypeScript, Spring Boot, MongoDB, Hugging Face (bart-large-cnn, roberta-base-squad2), OpenAI, Docker, Render, Vercel** 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisal0714&show_icons=true&locale=en&layout=compact" alt="thisal0714" /></p>
 
