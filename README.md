@@ -35,9 +35,9 @@
 </p>
 
 <h3 align="left">StudyHive 📚🐝</h3>  
-StudyHive is a modern web app that helps students study smarter with **note summarization, focus tracking, peer feedback, and personalized learning**. It’s designed for performance, security, and a seamless user experience.  
+StudyHive is a modern web app that helps students study smarter with note summarization, focus tracking, peer feedback, and personalized learning. It’s designed for performance, security, and a seamless user experience.  
 <p></p>
-✨ Highlight: **AI-powered PDF Summarizer** ("StudyHive") that condenses study materials for faster learning.  
+✨ Highlight: AI-powered PDF Summarizer ("StudyHive") that condenses study materials for faster learning.  
 
 Key Features:  
 + Note Summarization: Summarize PDFs and study materials with Hugging Face & OpenAI models.  
